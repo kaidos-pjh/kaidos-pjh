@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://kaidos.click"><img src="assets/kaidos-banner.png" alt="KAIDOS × PJH — Infrastructure · Platform · AI" width="100%"></a>
+  <a href="https://kaidos.click/?utm_source=github&utm_medium=social&utm_campaign=profile"><img src="assets/kaidos-banner.png" alt="KAIDOS × PJH — Infrastructure · Platform · AI" width="100%"></a>
 </p>
 
 <h3 align="center">연결하고, 확장하는 가능성의 인프라.</h3>
 <p align="center">Infrastructure · Platform · AI · Automation · Observability</p>
 
 <p align="center">
-  <a href="https://kaidos.click"><b>KAIDOS Engineering</b></a> ·
+  <a href="https://kaidos.click/?utm_source=github&utm_medium=social&utm_campaign=profile"><b>KAIDOS Engineering</b></a> ·
   <a href="https://djdakf1234.tistory.com/">이전 블로그 (Tistory)</a> ·
   <a href="https://www.linkedin.com/in/jeonghee-park-854032297/">LinkedIn</a>
 </p>
@@ -29,7 +29,7 @@ IDC 서버 운영에서 출발해 하이브리드 클라우드, 베어메탈 Kub
 
 ## ✍️ KAIDOS Engineering
 
-> 설계의 선택과 한계, 검증까지 남기는 엔지니어링 기록 — **[kaidos.click](https://kaidos.click)**
+> 설계의 선택과 한계, 검증까지 남기는 엔지니어링 기록 — **[kaidos.click](https://kaidos.click/?utm_source=github&utm_medium=social&utm_campaign=profile)**
 
 검수를 마친 글부터 차례로 공개하고 있습니다. 블로그 자체도 직접 설계·운영합니다.
 
@@ -39,6 +39,6 @@ IDC 서버 운영에서 출발해 하이브리드 클라우드, 베어메탈 Kub
 
 ## 📫 Contact
 
-문의는 [KAIDOS Engineering](https://kaidos.click) 또는 [LinkedIn](https://www.linkedin.com/in/jeonghee-park-854032297/)으로 남겨 주세요.
+문의는 [KAIDOS Engineering](https://kaidos.click/?utm_source=github&utm_medium=social&utm_campaign=profile) 또는 [LinkedIn](https://www.linkedin.com/in/jeonghee-park-854032297/)으로 남겨 주세요.
 
 <p align="right"><img src="assets/kaidos-mark.svg" width="28" alt="KAIDOS"></p>
